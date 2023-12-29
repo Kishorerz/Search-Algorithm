@@ -1,4 +1,3 @@
-![Screenshot 2023-12-29 205010](https://github.com/Kishorerz/Search-Algorithm/assets/144451216/7c63a2fd-4416-4721-81a9-c71cf91801e0)# Linear Search and Binary search
 ## Aim:
 To write a program to perform linear search and binary search using python programming.
 ## Equipment’s required:
