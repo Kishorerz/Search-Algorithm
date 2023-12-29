@@ -1,4 +1,4 @@
-# Linear Search and Binary search
+![Screenshot 2023-12-29 205010](https://github.com/Kishorerz/Search-Algorithm/assets/144451216/7c63a2fd-4416-4721-81a9-c71cf91801e0)# Linear Search and Binary search
 ## Aim:
 To write a program to perform linear search and binary search using python programming.
 ## Equipment’s required:
@@ -134,14 +134,15 @@ else:
 
 # use if-else to print sorted array and "Element not found" if the item is not present in the list otherwise print sorted array and "Element found at index: ", result+
 
-
-
 ```
 ## Sample Input and Output
+### linear search method
+![Screenshot 2023-12-29 204944](https://github.com/Kishorerz/Search-Algorithm/assets/144451216/844140df-d8b2-4a12-bb6c-5eca339e47d2)
+###  Binary Search
+![Screenshot 2023-12-29 205010](https://github.com/Kishorerz/Search-Algorithm/assets/144451216/59fd0e17-8090-4dea-866a-c9f5032b7374)
 
-
-
-
+### Binary Search (recursive Method)
+![Screenshot 2023-12-29 205046](https://github.com/Kishorerz/Search-Algorithm/assets/144451216/9bcf63e0-17e9-4785-bbac-f941ffdc81de)
 
 
 ## Result
